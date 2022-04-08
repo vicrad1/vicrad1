@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vicrad1
 - 👀 I’m interested in unity game development
-- 🌱 I’m currently learning more on C# and php
+- 🌱 I’m currently learning more on C# and C++
 
 <!---
 vicrad1/vicrad1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
