@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vicrad1
-- 👀 I’m interested in unity game development
+- 👀 I’m interested in UE4/UE5 and Unity game development
 - 🌱 I’m currently learning more on C# and C++
 
 <!---
